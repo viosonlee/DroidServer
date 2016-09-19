@@ -1,0 +1,4 @@
+课程须知
+请在学习本课程前了解socket、Http协议基本概念、具备java、android编程基础
+老师告诉你能学到什么？
+本课程能带你夯实HTTP协议的基础理论，实践android中socket的使用，无需任何第三方代码动手打造一个跑在手机上的服务器微架构HTTP Server
